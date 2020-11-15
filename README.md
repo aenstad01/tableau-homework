@@ -7,4 +7,6 @@ I imported June 2019 and June 2020 CSVs and created a union between them, since 
 
 Even though I only used 2 months worth of Citibike data, Tableau was extremely slow in processing the data into my visualizations, which made the project much more challenging than it probably should have been. For future projects, I would look into ways to reduce this processing time.
 
+The main finding from this project was that people took significantly fewer trips in 2020, but those trips were longer. This makes sense, since many workers no longer have a daily commute while they work from home. 
+
 Here's a link to the Tableau Story: https://public.tableau.com/profile/amanda.enstad#!/vizhome/Homework20_16047137337590/OverviewStory?publish=yes
